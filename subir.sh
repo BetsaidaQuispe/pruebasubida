@@ -1,5 +1,19 @@
 #!/bin/sh
 cd /home/betzi/Tarea
-git pull
+git add .
+git commit -a -m "mis comits"
+git push -u origin master 
+
+echo "otro listo jejej "
 
 echo "listoooo"
+
+
+
+
+
+
+
+
+
+
