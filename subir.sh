@@ -7,7 +7,7 @@ git push -u origin master
 
 echo "otro listo "
 
-echo "listoooo"
+echo "lio"
 
 echo "i"
 
