@@ -9,7 +9,7 @@ echo "otro listo "
 
 echo "listoooo"
 
-echo "pi"
+echo "i"
 
 
 
